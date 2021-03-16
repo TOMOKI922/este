@@ -1,0 +1,6 @@
+.slick-slide img{
+  height: 50vw;
+  max-height: 400px;
+  min-height: 350px;
+  width: 100%;
+}
